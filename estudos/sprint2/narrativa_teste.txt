@@ -1,0 +1,7 @@
+titulo: A Moura Torta
+tipo: Conto
+origem: Sergipe
+---
+Era uma vez um príncipe que saiu pelo mundo...
+
+E no fim tudo acabou bem.
